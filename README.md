@@ -1,2 +1,0 @@
-# Nie-training
-hello world!
